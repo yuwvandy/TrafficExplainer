@@ -4,5 +4,5 @@ Please download the dataset from [here](https://drive.google.com/file/d/1Pi4FOzU
 
 After that, you can run:
 ```
-bash run_byte_transformer.sh
+bash run_traffic_explainer.sh
 ```
